@@ -1,0 +1,12 @@
+state/
+state2/
+quiz_output/
+profile/
+publish/
+__pycache__/
+*.pyc
+*.log
+*.png
+*.zip
+.DS_Store
+Thumbs.db
